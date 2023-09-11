@@ -20,3 +20,6 @@ num2 = 24
 print("The L.C.M. is", lcm(num1, num2))
 
 
+# changes commited from gresa
+
+
